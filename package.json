@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/Firas-Hakimi/Blog-Back-End#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "mongoose": "^5.3.8",
+    "mongoose-unique-validator": "^2.0.2",
+    "multer": "^1.4.1"
   }
 }
